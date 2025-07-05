@@ -2,7 +2,7 @@
 # python3 -m venv myenv
 # source myenv/bin/activate
 # pip3 install -r requirements.txt
-# streamlit run Sentiment_app.py
+# streamlit run Sentiment_Information_Cluster_App.py
 import streamlit as st
 import pickle
 import re, regex

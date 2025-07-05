@@ -1,0 +1,189 @@
+rất nhiều:nhiều
+Không nhiều:không_nhiều
+khá nhiều:nhiều
+đa phần:nhiều
+chủ yếu:nhiều
+Đa số:nhiều
+rất ít:ít
+hiếm khi:ít
+ít khi:ít
+hiếm khi:ít
+không có:không
+Chưa:không
+chưa có:không
+chưa từng:không
+mội người:đồng_nghiệp
+quân tâm:quan_tâm
+mọi người:đồng_nghiệp
+cùng nhau:cùng_nhau
+lẫn nhau:cùng_nhau
+với nhau:cùng_nhau
+khác nhau:khác_nhau
+giúp đỡ nhau:hỗ_trợ_nhau
+support nhau:hỗ_trợ_nhau
+giup do nhau:hỗ_trợ_nhau
+giúp đỡ lẫn nhau:hỗ_trợ_nhau
+hỗ trợ nhau:hỗ_trợ_nhau
+hỗ trợ lẫn nhau:hỗ_trợ_nhau
+rủ nhau:rủ_nhau
+chơi với nhau:chơi_với_nhau
+kèn cựa nhau: kèn_cựa_nhau
+Chỗ ngồi hơi dày nhau: chỗ_ngồi_hơi_dày_nhau
+làm cùng nhau:làm_việc_cùng_nhau
+trẻ trung:trẻ_trung
+Môi trường:môi_trường
+chuyên nghiệp:chuyên_nghiệp
+cởi mở:cởi_mở
+hòa đồng:hoà đồng
+khá thích:khá_thích
+hệ thống data sql:hệ_thống_data_sql
+làm sáng thứ 7:làm_sáng_thứ_7
+full ngày:làm_nguyên_ngày
+tạm ổn:tạm_ổn
+mỗi tuần 1 lần:mỗi_tuần_một_lần
+đa số:đa_số
+một số:một_số
+kéo cánh:kêo_cánh
+ot:làm_thêm_giờ
+Không ớt:không_làm_thêm_giờ
+cầm tay chỉ việc:đào_tạo_tốt
+Anh em:đồng_nghiệp
+best năng suất: năng_suất_tốt_nhất
+cơ hội onsite: cơ_hội_onsite
+trọng người tài:trọng_người_tài
+Flexible working hour: giờ_làm_việc_linh_hoạt
+env.:môi_trường_làm_việc
+Phụ cấp ăn trưa:phụ_cấp_ăn_trưa
+ăn trưa có phụ cấp:phụ_cấp_ăn_trưa
+hỗ trợ tiền ăn trưa:phụ_cấp_ăn_trưa
+hỗ trợ chi phí ăn trưa:phụ_cấp_ăn_trưa
+hỗ trợ phí ăn trưa:phụ_cấp_ăn_trưa
+Cơm trưa free:phụ_cấp_ăn_trưa
+Cho tiền ăn trưa:phụ_cấp_ăn_trưa
+com trua 5bua:phụ_cấp_ăn_trưa
+Ăn trưa mất tiền:không_phụ_cấp_ăn_trưa
+hỗ trợ tiền ăn trưa:phụ_cấp_ăn_trưa
+Phụ cấp cơm trưa:phụ_cấp_ăn_trưa
+hỗ trợ ăn trưa:phụ_cấp_ăn_trưa
+ăn trưa thì đc cấp 80k mỗi bữa:phụ_cấp_ăn_trưa
+hỗ trợ tiền ăn trưa:phụ_cấp_ăn_trưa
+hỗ trợ ăn trưa:phụ_cấp_ăn_trưa
+tiền_ăn_trưa:phụ_cấp_ăn_trưa
+bao ăn trưa:phụ_cấp_ăn_trưa
+chỗ ngủ trưa:chỗ_ngủ_trưa
+chỗ nghỉ trưa:chỗ_nghỉ_trưa
+chỗ ngủ buổi trưa:chỗ_ngủ_trưa
+chỗ ăn buổi trưa:khu_vực_ăn_trưa
+phòng ăn trưa:khu_vực_ăn_trưa
+ăn uống buổi trưa:ăn_trưa
+khu nghỉ ăn trưa:khu_vực_ăn_trưa
+phục vụ ăn trưa:phục_vụ_ăn_trưa
+tiền ăn trưa:phụ_cấp_ăn_trưa
+giờ ăn trưa:giờ_ăn_trưa
+khu nghỉ_ăn_trưa:khu_vực_ăn_trưa
+đồ ăn trưa: đồ_ăn_trưa
+hỗ trợ phí gửi xe:phụ_cấp_gửi_xe
+khu vực nghỉ trưa:khu_vực_nghỉ_trưa
+Đồ ăn trưa :thức_ăn_buổi_trưa
+chỗ ăn trưa:khu_vực_ăn_trưa
+đầu giờ chiều sau buổi trưa:đầu_giờ_chiều
+chỗ ngủ trưa:chỗ_ngủ_trưa
+làm xuyên trưa:làm_xuyên_trưa
+hỗ trợ đi lại và ăn trưa:phụ_cấp_ăn_trưa, phụ_cấp_đi_lại
+khu bóng bàn:khu_bóng_bàn
+Khu chơi bóng bàn:khu_bóng_bàn
+cty:công_ty
+bãi cỏ:bãi_cỏ
+cỏ rác:cỏ_rác
+xếp:sếp
+Wfh:làm_việc_từ_xa
+đồng đội:đồng_đội
+đội Mobile:đội_mobile
+Quân đội:quân_đội
+đội phát triền:đội_phát_triển
+môi trường làm việc:môi_trường_làm_việc
+linh động:linh_động
+đồng nghiệp:đồng_nghiệp
+dong nghiep:đồng_nghiệp
+đồng bọn:đồng_nghiệp
+anh em trong team:thành_viên_nhóm
+làm all over the world: làm_việc_toàn_cầu
+career map:lộ_trình_phát_triển_sự_nghiệp
+road map:lộ_trình_phát_triển_sự_nghiệp
+Tot:tốt
+hoc duoc nhieu thu:học_được_nhiều_thứ
+Manager tot:sếp_tốt
+Task gap:công_việc_gấp
+moi can:mới_cần
+ro rang:rõ_ràng
+day du:đầy_đủ
+Tang thuong:tặng_thưởng
+Nhieu hon:nhiều_hơn
+tra luong:trả_lương
+Manager:nhà_quản_lý
+Sếp:nhà_quản_lý
+sếp:nhà_quản_lý
+intern:thực_tập_sinh
+Good benefits:phúc_lợi_tốt
+đồng ý:đồng_ý
+hòa đồng:hoà_đồng
+hợp đồng:hợp_đồng
+đồng bộ:đồng bộ
+cộng đồng:cộng đồng
+môi trường:môi_trường_làm_việc
+Môi trường làm việc:môi_trường_làm_việc
+SV mới ra trường:sinh_viên_mới_ra_trường
+sv mới ra trường :sinh_viên_mới_ra_trường
+ae fresher mới ra trường:sinh_viên_mới_ra_trường
+người mới ra trường:sinh_viên_mới_ra_trường
+thị trường:thị_trường
+bãi đậu xe:bãi_đậu_xe
+xe đưa đón nhân viên:xe_đưa_đón_nhân_viên
+xe đưa rước:xe_đưa_đón_nhân_viên
+xe đưa đón:xe_đưa_đón_nhân_viên
+xe bus đưa đón nv:xe_đưa_đón_nhân_viên
+xe bus đưa đón:xe_đưa_đón_nhân_viên
+Xe buýt đưa đón miễn phí:xe_đưa_đón_nhân_viên
+xe buýt đưa đón:xe_đưa_đón_nhân_viên
+xe bus đưa đón theo giờ:xe_đưa_đón_nhân_viên
+xe bus hỗ trợ:xe_đưa_đón_nhân_viên
+hầm để xe:nơi_để_xe
+Nhà xe:nơi_để_xe
+đi xe riêng:đi_xe_riêng
+free giữ xe:giữ_xe_miễn_phí
+gửi xe:gửi_xe
+đông xe:đông_xe
+lấy xe:lấy_xe
+bé xíu:nhỏ
+chật hẹp:nhỏ
+chật chội:nhỏ
+quá bé:nhỏ
+nghỉ bù:nghỉ_bù
+Không có:không_có
+Chưa có:chưa_có
+Nhân 2:gấp_đôi
+chưa từng:chưa_từng
+ít khi:ít_khi
+không có:không_có
+Quân tâm:quan tâm
+Ban xet duyet:ban_xét_duyệt
+working:làm_việc
+làm thêm giờ:làm_thêm_giờ
+làm_thêm_giờ:chính_sách_làm_thêm_giờ
+tiền_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+chế_độ_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+tiền_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+dự_án_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+chế_độ_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+chính_sách_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+lương_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+chính_sách_làm_thêm_giờ_công_ty:chính_sách_làm_thêm_giờ
+chính_sách_làm_thêm_giờ_dự_án:chính_sách_làm_thêm_giờ
+chính_sách_làm_thêm_giờ_rõ_ràng:chính_sách_làm_thêm_giờ
+công_việc_chính_sách_làm_thêm_giờ:chính_sách_làm_thêm_giờ
+nhà_quản_lý_đồng_nghiệp:nhà_quản_lý
+lương_trung_bình:lương_thưởng
+lương_mặt_bằng:lương_thưởng
+xe_rộng_rãi:bãi_đậu_xe_rộng_rãi
+công_việc_đời_sống:công_việc đời_sống
+tiền_nghỉ_bù:nghỉ_bù
